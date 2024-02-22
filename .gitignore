@@ -2,7 +2,6 @@
 *.aux
 *.pyc
 *~
-
 .ipynb_checkpoints/
 Untitled*.ipynb
 
@@ -22,3 +21,6 @@ syllabus.out
 _build
 .DS_Store
 lectures/mywrite.txt
+
+tmpenv
+
